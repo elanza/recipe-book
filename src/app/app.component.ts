@@ -10,5 +10,4 @@ import {ShoppingListComponent} from "./shopping-list/shopping-list.component";
   directives:[HeaderComponent, RecipesComponent, ShoppingListComponent]
 })
 export class AppComponent {
-
 }
