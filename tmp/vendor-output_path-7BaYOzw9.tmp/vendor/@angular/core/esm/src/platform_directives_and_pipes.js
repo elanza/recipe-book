@@ -1,0 +1,1 @@
+/Users/lanzer/sites/Study/recipe-book/tmp/vendor-input_base_path-CiGUgQEW.tmp/0/@angular/core/esm/src/platform_directives_and_pipes.js

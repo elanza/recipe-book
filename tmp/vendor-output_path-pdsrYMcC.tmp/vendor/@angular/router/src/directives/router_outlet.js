@@ -1,0 +1,1 @@
+/Users/lanzer/sites/Study/recipe-book/tmp/vendor-input_base_path-kM2qUgCK.tmp/0/@angular/router/src/directives/router_outlet.js
